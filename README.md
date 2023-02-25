@@ -17,5 +17,5 @@ I'm Data Engineer <img src="https://cdn-icons-png.flaticon.com/512/2980/2980479.
 [<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="35" height="35">](https://www.linkedin.com/in/felipe-santos-a6057b1a0)
 
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/felipedmsantos91/felipedmsantos91/blob/output/github-contribution-grid-snake.svg)
 
