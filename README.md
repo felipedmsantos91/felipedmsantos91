@@ -14,5 +14,5 @@ I'm Data Engineer <img src="https://cdn-icons-png.flaticon.com/512/2980/2980479.
 #
 
 
-<img src="https://blog.b2bstack.com.br/wp-content/uploads/2022/11/LinkedIn-simbolo.jpg" width="100" height="50">
+[<img src="https://blog.b2bstack.com.br/wp-content/uploads/2022/11/LinkedIn-simbolo.jpg" width="100" height="50">](www.linkedin.com/in/felipe-santos-a6057b1a0)
 
